@@ -1,0 +1,12 @@
+requests
+python-dateutil
+cryptography
+urllib3
+python-dotenv
+websockets
+datetime
+pandas
+plotly
+pyarrow
+scikit-learn
+scipy
